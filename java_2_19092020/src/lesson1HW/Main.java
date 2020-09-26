@@ -11,7 +11,7 @@ import lesson1HW.participants.Robot;
 public class Main {
     public static void main(String[] args) {
         Competitor[] competitors = {
-            new Human("Alex",50,2),
+            new Human("Alex",51,2),
             new Cat("Tom",550,1),
             new Robot("Wall-e",999,0)
         };
